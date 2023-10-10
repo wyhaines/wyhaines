@@ -1,4 +1,4 @@
-[![Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyhaines)]
+[![Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyhaines&show_icons=true&theme=transparent)]
 
 <!--
 **wyhaines/wyhaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
